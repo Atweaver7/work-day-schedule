@@ -2,8 +2,6 @@
   font-family: monospace;
 }
 
-
-
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -54,7 +52,7 @@ textarea{
 }
 
 .present {
-  background-color: #61ff6e;
+  background-color: #ff6961;
   color: white;
 }
 
